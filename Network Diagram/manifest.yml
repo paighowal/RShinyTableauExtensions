@@ -1,0 +1,15 @@
+extension_id: com.example.palindrome
+extension_version: 1.0.0
+name: Network Diagram
+description: Insert a Network diagram
+extended_description: 
+    This is an extension for Tableau dashboards that enables the easy creation of network plots.
+author_name: Nitin Paighowal
+author_email: nitinpango@gmail.com
+author_organization: 
+website: https://github.com/paighowal/RShinyTableauExtensions/tree/main/Network%20Diagram
+icon:
+  file: default_icon.png
+  package: shinytableau
+permissions: full data
+min_api_version: '1.4'
